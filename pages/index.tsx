@@ -11,7 +11,7 @@ export default function Home() {
         <div className="container mx-auto">
           <div className="p-6 max-w-sm mx-auto bg-white dark:bg-black rounded-xl shadow-md flex items-center space-x-4">
             <div className="flex-shrink-0">
-              <img className="h-12 w-12" src="https://www.flaticon.com/svg/vstatic/svg/331/331372.svg?token=exp=1614572618~hmac=135c3af94e038c3333fa4d2b1a51ce66" alt="ChitChat Logo" />
+              <img className="h-18 w-36" src="https://miro.medium.com/max/930/1*uKcXMiwIIUy4xkgtEto6kA.png" alt="ChitChat Logo" />
             </div>
             <div>
               <div className="text-xl font-medium dark:text-white">Next.js Boilerplate</div>
